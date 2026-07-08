@@ -2,23 +2,23 @@
 
 Um projeto simples de **botões de navegação para redes sociais** usando HTML, CSS e JavaScript.
 
-## ✨ Sobre
+## Sobre
 
 Este projeto demonstra como criar **social media buttons interativos**, ideais para navegação e compartilhamento em sites.
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - HTML
 - CSS
 - JavaScript
 
-## 🎯 Funcionalidades
+## Funcionalidades
 
 - Botões de redes sociais
 - Efeitos de hover e animação
 - Design moderno e responsivo
 
-## 🚀 Como usar
+## Como usar
 
 1. Baixe ou clone o repositório  
 2. Abra o arquivo `index.html` no navegador  
